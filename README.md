@@ -8,6 +8,7 @@ Powered by AI – Uses Google Generative AI and LangChain for intelligent respon
 Efficient Information Retrieval – Utilizes ChromaDB & FAISS-CPU as vector databases.
 PDF Processing – Extracts text using PyPDF2.
 Seamless Deployment – Hosted on Streamlit with Python-Dotenv for environment management.
+
 🛠️ Tech Stack
 Frontend: Streamlit
 AI & NLP: Google Generative AI, LangChain, LangChain-Community
